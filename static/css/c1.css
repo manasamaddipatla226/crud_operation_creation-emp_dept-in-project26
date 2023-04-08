@@ -1,0 +1,57 @@
+body{
+    background-image: url(https://wallpapersmug.com/download/950x1534/5ea1ab/rose-flower-pink-portrait.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#a{
+    color: black;
+    background-color:aqua;
+    text-align: center;
+    padding: 6px;
+    font-size: medium;
+    font-style: italic;
+    text-shadow: 0 0 15px ghostwhite;
+
+
+}
+#b{
+    color: black;
+    background-color: aqua;
+    padding: 8px;
+    font-size: medium;
+    font-style: italic;
+    text-shadow: 0 0 15px ghostwhite;
+    
+}
+#c{
+    color: black;
+    background-color: aqua;
+    padding: 8px;
+    font-size: medium;
+    font-style: italic;
+    text-shadow: 0 0 15px ghostwhite;
+    
+}
+
+.abc:hover{
+    background-color: red;
+    padding: 8px;
+    font-size: medium;
+    font-style: italic;
+    text-shadow: 0 0 15px olive;
+    
+
+}
+.abc{
+    background-color: blue;
+    color: ghostwhite;
+    text-align: center;
+    padding: 8px;
+    font-size: medium;
+    font-style: italic;
+    text-shadow: 0 0 15px black;
+    
+
+}
+

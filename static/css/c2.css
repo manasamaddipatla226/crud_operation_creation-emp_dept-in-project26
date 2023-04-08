@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://picstatio.com/large/7b0b47/white-rose-flower-small-buds.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ammk{
+    color: ghostwhite;
+    background-color: royalblue;
+    text-align: center;
+    font-size:small;
+    font-style: italic;
+    padding: 8px;
+}
+.pkrlr:hover{
+    background-color: ghostwhite;
+    
+}
+.pkrlr{
+    color: black;
+    background-color: red;
+    font-style: italic;
+    padding: 6px;
+}
+#l{
+    color: ghostwhite;
+    font-style: italic;
+    padding: 6px;
+}
